@@ -1,0 +1,1119 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hero",
+				"heroService"
+			],
+			[
+				"her",
+				"heroes-screen"
+			],
+			[
+				"ge",
+				"getHeroes"
+			],
+			[
+				"Hero",
+				"HeroService"
+			],
+			[
+				"selec",
+				"selectedHero"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"sele",
+				"selectedHero"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"_get",
+				"_get_brand_data"
+			],
+			[
+				"bran",
+				"brand_data"
+			],
+			[
+				"bra",
+				"brand_data"
+			],
+			[
+				"br",
+				"brand-logo"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"key",
+				"key_starts_with"
+			],
+			[
+				"AW",
+				"AWS_SECRET"
+			],
+			[
+				"S3_",
+				"S3_BUCKET_NAME"
+			],
+			[
+				"pro",
+				"providers"
+			],
+			[
+				"pr",
+				"providers"
+			],
+			[
+				"foll",
+				"followedProviders"
+			],
+			[
+				"def",
+				"default_btn_cta"
+			],
+			[
+				"defa",
+				"defaultSetting"
+			],
+			[
+				"auto",
+				"autoPrompt"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"reco",
+				"recommends_v2"
+			],
+			[
+				"A",
+				"ADD_GROUP"
+			],
+			[
+				"subscr",
+				"subscriptions"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"appl",
+				"applies_to"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"Mon",
+				"MontserratRegular"
+			],
+			[
+				"follo",
+				"following_v2"
+			],
+			[
+				"push",
+				"push_state"
+			],
+			[
+				"sub",
+				"subscription_id"
+			],
+			[
+				"pu",
+				"push_state"
+			],
+			[
+				"tr",
+				"trigger"
+			],
+			[
+				"con",
+				"content_type"
+			],
+			[
+				"content_",
+				"content_slug"
+			],
+			[
+				"conte",
+				"content_slug"
+			],
+			[
+				"conten",
+				"content_type"
+			],
+			[
+				"f",
+				"frameborder	Attr"
+			],
+			[
+				"in",
+				"insights"
+			],
+			[
+				"acc",
+				"access_token"
+			],
+			[
+				"fb_",
+				"fb_api_url"
+			],
+			[
+				"su",
+				"subscription"
+			],
+			[
+				"s",
+				"subscription"
+			],
+			[
+				"Push",
+				"PushState"
+			],
+			[
+				"get",
+				"get_device"
+			],
+			[
+				"BASE",
+				"BASE_GCM_URL"
+			],
+			[
+				"regi",
+				"registration_id"
+			],
+			[
+				"red",
+				"redirectUrl"
+			],
+			[
+				"un",
+				"unsubscribe"
+			],
+			[
+				"BAS",
+				"BASE_MOZ_URL"
+			],
+			[
+				"BA",
+				"BASE_MOZ_URL"
+			],
+			[
+				"is",
+				"isRecommended"
+			],
+			[
+				"not",
+				"notificationCount"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"isS",
+				"isSafariSupported"
+			],
+			[
+				"excep",
+				"exception"
+			],
+			[
+				"init",
+				"initServiceWorker"
+			],
+			[
+				"op",
+				"options_"
+			],
+			[
+				"tar",
+				"target_id"
+			],
+			[
+				"eve",
+				"eventName"
+			],
+			[
+				"ta",
+				"target_id"
+			],
+			[
+				"Vim",
+				"VimeoState"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"pop",
+				"popular_videos"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"fill",
+				"fill_image"
+			],
+			[
+				"eff",
+				"effects_image"
+			],
+			[
+				"effect",
+				"effects_map"
+			],
+			[
+				"la",
+				"layer_image"
+			],
+			[
+				"layer",
+				"layer_image"
+			],
+			[
+				"effects",
+				"effects_map"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app/app.module.ts",
+			"settings":
+			{
+				"buffer_size": 791,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/heroes.component.html",
+			"settings":
+			{
+				"buffer_size": 356,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/hero-detail.component.ts",
+			"settings":
+			{
+				"buffer_size": 1191,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/app.component.ts",
+			"settings":
+			{
+				"buffer_size": 363,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/hero.service.ts",
+			"settings":
+			{
+				"buffer_size": 369,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/heroes.component.ts",
+			"settings":
+			{
+				"buffer_size": 806,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nicholasaiello/Dev/NG/battle-ship",
+		"/Users/nicholasaiello/Dev/NG/battle-ship/e2e",
+		"/Users/nicholasaiello/Dev/NG/battle-ship/src",
+		"/Users/nicholasaiello/Dev/NG/battle-ship/src/app"
+	],
+	"file_history":
+	[
+		"/Users/nicholasaiello/Dev/NG/battle-ship/src/app/app.component.html",
+		"/Users/nicholasaiello/Dev/NG/battle-ship/src/app/app-routing.module.ts",
+		"/Users/nicholasaiello/Dev/NG/battle-ship/src/app/dashboard.component.ts",
+		"/Users/nicholasaiello/Dev/NG/battle-ship/src/app/heroes.component.html",
+		"/Users/nicholasaiello/Dev/NG/battle-ship/src/index.html",
+		"/Users/nicholasaiello/Dev/NG/battle-ship/src/app/hero.service.ts",
+		"/Users/nicholasaiello/Dev/NG/battle-ship/src/app/app.component.css",
+		"/Users/nicholasaiello/Dev/NG/battle-ship/src/app/app.module.ts",
+		"/Users/nicholasaiello/Dev/NG/battle-ship/src/app/hero-detail.component.ts",
+		"/Users/nicholasaiello/Dev/NG/battle-ship/src/app/mock-heroes.ts",
+		"/Users/nicholasaiello/Dev/NG/battle-ship/src/app/hero.ts",
+		"/Users/nicholasaiello/Desktop/index.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/feeds/daily_feed.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/docker/services/pip.conf",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/javascripts/apps/notifications/models/state.js",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/javascripts/home_banner.js",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/javascripts/following_onboarding.js",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/content/_content_video_player.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/paths/_video.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/javascripts/analytics.js",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/macros/bs/_video_player.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/paths/bs/_video.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/topics/topic_detail.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/videos/video_detail.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/content/content_items/_video.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/templates/media_player/media_poster.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/views/videos.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/templates/media_player/media_player.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/javascripts/paths/modules/video.js",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/less/bs/vars.less",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/less/bs/features/media_player.less",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/templates/content/_content_actions.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/static/javascripts/components/media_player.js",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/static/javascripts/paths/modules/video.js",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/static/templates/media_player/media_player.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/static/less/components/videos.less",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/static/less/components/media_player.less",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/javascripts/components/media_player.js",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/macros/bs/_share_this.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/content/_content_actions.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/less/components/vars.less",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/less/paths.less",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/less/components/media_player.less",
+		"/Users/nicholasaiello/Downloads/google-services (8).json",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/static/javascripts/meme_digests.js",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/tasks/sitemap.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/tasks/sitemap_image.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/config/base.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/controllers/frontend/__init__.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/views/templates/sitemap_image.xml",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/manage.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/tasks/__init__.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/views/templates/sitemap.xml",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/controllers/api_v3/content/__init__.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/requirements/base.txt",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/requirements/non-docker.txt",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/shell_cli.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/controllers/api_v3/tags/services.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/controllers/api_v3/tags/__init__.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/controllers/api_v3/content/redirects.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/models/taxonomy.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/package.json",
+		"/Users/nicholasaiello/Downloads/google-services (7).json",
+		"/Users/nicholasaiello/Downloads/google-services (6).json",
+		"/Users/nicholasaiello/Downloads/client_secret_217239101106-hmdspvju9tog1saq5o7vlv1d0cev33tb.apps.googleusercontent.com.json",
+		"/Users/nicholasaiello/Downloads/google-services (5).json",
+		"/Users/nicholasaiello/Downloads/google-services (4).json",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/util/auth.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/views/forms/auth.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/static/less/path/meme.less",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/static/less/components/brand_attribution.less",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/templates/pokedex/brands/dashboard.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/templates/paths/_meme.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/templates/profiles/brand_path.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/templates/profiles/_brand_attribution.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/views/pokedex/brands.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/views/utils.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/views/profiles.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/views/utils.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/context_processors/base.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/context_processors/base.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityClient/curiosity/client/services/session.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/settings.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/less/bs/features/sponsorship.less",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/settings.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/macros/bs/_sponsorship.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/requirements/base.txt",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/requirements/base.txt",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/views/profiles.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/templates/providers/provider_detail.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/less/bs/bootstrap_variables.less",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/controllers/auth/social.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/controllers/auth/facebook.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/less/bs/features/search.less",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/less/bs/features/brand_header.less",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/views/user.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/templates/user/settings.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/templates/pokedex/base.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/static/javascripts/user_settings.js",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityClient/curiosity/client/models/paths.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/views/ajax.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/templates/pokedex/cache/dashboard.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/views/pokedex/__init__.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/static/javascripts/pokedex/ace.js",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/data/brand-data.json",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/controllers/api_v2/providers.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/data/brand-data.json",
+		"/Users/nicholasaiello/Downloads/brand-data (4).json",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityClient/curiosity/client/services/paths.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/templates/paths/_meme_video.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/profiles/brand_path.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/profiles/_brand_path_detail.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/images/brands/alone-logo.png",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/static/javascripts/paths/get_smarter.js",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/requirements/default.txt",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/static/less/path/get_smarter.less",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/javascripts/paths/path_controller.js",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/macros/bs/_meme_image.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/paths/bs/meme_detail.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/digests/_digest_detail.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityClient/curiosity/client/services/user.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/models/user.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/cards/bs/_meme_card.html",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/app.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/config/qa.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/config/production.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/views/forms/push.py",
+		"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/controllers/api_v2/push.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/javascripts",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/javascripts",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/static/less",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/controllers",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityClient",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityClient",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/util",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/controllers",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/less/bs",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/static",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/templates",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/static",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityClient",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityClient/curiosity/client",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/curiosity.services-data/services_data/migrations",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/views/templates/email",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/views",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/templates",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityClient",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityClient",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity/controllers/auth",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/less",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/views",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/curiosity.services-data/services_data/migrations",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/curiosity.services-data/services_data",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/curiosity.services-data/services_data/migrations",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity/curiosity",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/Curiosity",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/static",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/less",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/static/javascripts",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/javascripts",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates/paths",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/less",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityClient/curiosity/client/services",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/static/less",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityMobile/curiosity/mobile/templates",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity/frontend/templates",
+			"/Users/nicholasaiello/Dev/curiosity/docker/repos/CuriosityFrontend/curiosity"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mock-heroes.ts",
+			"localStorage.set",
+			"shared",
+			"endca",
+			"endcard",
+			"video",
+			"module-v",
+			"-item",
+			"-video",
+			"play:",
+			"$el",
+			"$el =",
+			"$el",
+			"player",
+			"module-video",
+			".media-p",
+			"flex",
+			".play-button",
+			"isPlayerReady",
+			".module-video",
+			".media-pla",
+			"repl",
+			"js-med",
+			"content",
+			"this.$('.play-button')",
+			"emp",
+			".play-button",
+			".play-b",
+			"MediaPlayer",
+			"_renderVideo",
+			".media-player",
+			"replay",
+			"setState",
+			".finish",
+			".fini",
+			".finished",
+			"en-gb",
+			"en-us",
+			"digest-topic",
+			"animation(",
+			"top-left",
+			"chunk_",
+			"view",
+			"app_",
+			"json",
+			"get_root_tag_list_for_namespace",
+			"subject_link",
+			"topic",
+			"mem",
+			"topic",
+			"appbanner",
+			"beforeinstallprompt",
+			"onbreforeinstall",
+			"margin-bot",
+			"a {",
+			"brand-logo",
+			"prefix",
+			"cache",
+			"pksheps",
+			"create_record",
+			"MergeUser",
+			"MergeRe",
+			"\n\n\n\nMergeUser.",
+			"mergeus",
+			"brand_info",
+			"cache",
+			"setex",
+			"pipeline()",
+			"pipeline",
+			"settings",
+			"settings.BRAND",
+			"brand_image_url",
+			"cache",
+			"BRAND_DATA_KEY",
+			"settings.BRAND_DATA",
+			"BRAND_DATA",
+			"BRAND_DATE",
+			"_get_brand_info",
+			"brand_",
+			"'brand_d",
+			"settings.BRAND",
+			"settings.",
+			"_get_brand_data",
+			"settings.B",
+			".box",
+			"-size",
+			"BRAND_DATA",
+			"499",
+			"AUTH_MESSAGE",
+			"An unknown problem occurred. Please try again.",
+			".container",
+			"nav-s",
+			"square",
+			"series",
+			"logo",
+			"getFileExt",
+			"aws",
+			"s3",
+			"photo",
+			"_score",
+			"_list_content_path_data",
+			"path_api_get",
+			"KIND_RELATED",
+			"filt",
+			"related_type",
+			"format_type",
+			"sett",
+			"brand",
+			"session",
+			"isMemePath",
+			"FOLLOW",
+			"started",
+			":start",
+			"start",
+			" started'",
+			" started",
+			"shown",
+			"Meme start",
+			"started",
+			"trending_actions_by_period_by_type",
+			"list_trending_memes",
+			"'meme:shown'",
+			"meme:shown",
+			"meme:",
+			"Curiosity.Followable",
+			".following'",
+			".provider_follow'",
+			".notifications'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app/app.module.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								698,
+								698
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/heroes.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/hero-detail.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								976,
+								976
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/app/app.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/app/hero.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								286
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/app/heroes.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								705,
+								705
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1190.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
